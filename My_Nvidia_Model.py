@@ -223,6 +223,8 @@ model.fit_generator(generator_train,
                               validation_data=generator_validation,
                               nb_val_samples=nb_val_samples)
 
-model.save_weights('model.h5', True)
+
 with open('model.json', 'w') as outfile:
     json.dump(model.to_json(), outfile)
+    
+model.save('model.h5', True)
