@@ -18,10 +18,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./write_up_data/nVidia_model.png "Model Visualization"
-[image2]: ./write_up_data/Original_data_hist.png "Original Histogram"
-[image3]: ./write_up_data/Processed_Hist.png "even distribution Histogram"
-[image4]: ./write_up_data/Post_Bridge.jpg "Recovery Image"
+[image1]: ./write_up_images/nVidia_model.png "Model Visualization"
+[image2]: ./write_up_images/Original_data_hist.png "Original Histogram"
+[image3]: ./write_up_images/Processed_Hist.png "even distribution Histogram"
+[image4]: ./write_up_images/Post_Bridge.jpg "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
