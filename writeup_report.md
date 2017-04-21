@@ -35,7 +35,7 @@ The goals / steps of this project are the following:
 ####1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
 My project includes the following files:
-* My_Nvidia_Model.py containing the script to create and train the model
+* [My_Nvidia_Model.py](https://github.com/nrghike/CarND-Behavioral-Cloning-P3/blob/master/My_Nvidia_Model.py) containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network 
 * writeup_report.md summarizing the project
@@ -199,7 +199,7 @@ I encountered a couple of problems during testing.
 
 ![alt text][image4]
 
-This issue was relevant on the brdge as well. I resolved it by collecting more data at these patches of track.
+This issue was relevant on the bridge as well. I resolved it by collecting more data at these patches of track.
 
 
 2. Vehicle kept steering towards left.
